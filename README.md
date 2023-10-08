@@ -1,8 +1,8 @@
 ## Introduction
 
-The projects inside this repository represent my initial foray into programming. Please be aware that the code in these projects
+The projects inside this repository represent my initial foray into programming with c#. Please be aware that the code here
 is very basic and contains a lot of flaws and anti-patterns. They serve as learning experiences and stepping stones in my programming journey that started in 2017.
-I am proud to have them found and restored six years after finishing my projects in c#.
+I am proud to have them found and restored six years after.
 
 ## Repository Folders
 
