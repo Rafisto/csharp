@@ -1,0 +1,26 @@
+Todo - Describe the following in README.md:
+Arduino 1
+Arduino 2
+Arduino 3
+ArrayGen Generate random integer columns and rows
+Bank
+ChatApp
+ChatClient
+CityGen
+CryptoSys
+CryptoWin - Aforementioned but with GUI
+DiagnosicSerialSender
+DiscordApp - RPC
+DrawFunction <- Geogebra Clone
+FullColor
+GameOfLife
+GuitarScales
+Joystick_Connection_agent
+Password_Generator
+pcc-lang-recognizer
+PixelMethod
+SasinClicker
+SerialCommunicator
+SongsBase
+TabGenerator
+Vingardzki
